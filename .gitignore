@@ -1,0 +1,27 @@
+# scala ignores
+*.class
+*.log
+
+# sbt ignores
+dist/*
+target/*
+lib_managed/*
+src_managed/*
+project/boot/
+project/plugins/project/
+.history
+.cache
+
+# intellij ignores
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
+# vimignores
+.*.swp
+.*.swo
+
+# osx ignores
+.DS_STORE

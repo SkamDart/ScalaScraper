@@ -1,6 +1,7 @@
 # scala ignores
 *.class
 *.log
+target
 
 # sbt ignores
 dist/*
